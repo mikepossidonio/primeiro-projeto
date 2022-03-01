@@ -1,0 +1,3 @@
+
+
+Um projeto que tem como objetivo criar um site acessível para pessoas com ou sem deficiência possam achar serviços e lugares que tenham algum tipo de acessibilidade.
